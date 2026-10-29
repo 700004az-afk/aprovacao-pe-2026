@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Aprovação PE 2026",
+    "slug": "aprovacao-pe-2026",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#06163d"
+    },
+    "android": {
+      "package": "br.com.aprovacaope.app",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "br.com.aprovacaope.app",
+      "buildNumber": "1"
+    },
+    "plugins": [
+      "@react-native-async-storage/async-storage"
+    ]
+  }
+}
